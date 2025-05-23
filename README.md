@@ -1,6 +1,12 @@
 #PREFACE
 
-This game is only a project based game and is not meant to be takern seriously as it was just a part of the course i had taken as an assignment and thus is only for learning purpose and not commercial use 
+This game is only a project based game and is not meant to be takern seriously as it was just a part of the course i had taken as an assignment and thus is only for learning purpose and not commercial use\
 
 
-..Tanmay Patil
+NOTE:- This is a scratch based project 
+
+
+..Tanmay Patil.
+
+
+
